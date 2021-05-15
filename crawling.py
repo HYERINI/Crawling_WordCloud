@@ -26,7 +26,7 @@ for music in musics :
 
     print(rank,title,singer)
 
-cat_mask=np.array(Image.open('C:/Users/USER/Desktop/crawling_prac/고양이.jpg'))
+cat_mask=np.array(Image.open('C:/Users/이혜린/Desktop/crawling/하트.jpg'))
 
 
 font_path = 'C:/Windows/Fonts/MALGUNBD.TTF'
